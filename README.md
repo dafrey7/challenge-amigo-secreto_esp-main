@@ -1,71 +1,62 @@
 # Proyecto Amigo Secreto
+¡Organiza tu sorteo de Amigo Secreto de forma fácil y divertida!
 
+[![Licencia MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%20f1e05a?logo=javascript&logoColor=black)](https://www.javascript.com/)
+[![Hecho con ❤️](https://img.shields.io/badge/Hecho%20con-❤️-red)](https://github.com/TuUsuario)
 ## Descripción
+
+Este proyecto es una sencilla aplicación web para realizar un sorteo de amigo secreto. Permite agregar nombres a una lista y luego sortear aleatoriamente un amigo secreto de esa lista.
+
+## Funcionalidades
+
+*   **Agregar amigos:** Permite ingresar nombres de amigos a una lista. Se evita la adición de nombres en blanco.
+*   **Mostrar lista:** Muestra la lista de amigos agregados.
+*   **Sortear amigo secreto:** Selecciona aleatoriamente un amigo de la lista y lo muestra como resultado.
+*   **Limpiar campo de entrada:** Limpia el campo de texto después de agregar un amigo.
 
 Este proyecto es una aplicación simple para organizar sorteos de "Amigo Secreto". Permite a los usuarios agregar nombres de participantes y realizar el sorteo de forma aleatoria.
 
 ## Instalación
 
-Para ejecutar este proyecto, necesitarás tener instalado [Node.js](https://nodejs.org/) y [npm](https://www.npmjs.com/).
-
 1.  Clona el repositorio:
 
     ```bash
-    git clone [URL del repositorio]
+    git clone https://github.com/dafrey7/challenge-amigo-secreto_esp-main.git
     ```
-2.  Navega al directorio del proyecto:
-
-    ```bash
-    cd amigo-secreto
-    ```
-3.  Instala las dependencias:
-
-    ```bash
-    npm install
-    ```
-
-## Dependencias
-
-*   [Node.js](https://nodejs.org/) - Entorno de ejecución para JavaScript.
-*   [npm](https://www.npmjs.com/) - Gestor de paquetes para JavaScript.
-*   [DependenciaAdicional1] - Descripción de la dependencia.
-*   [DependenciaAdicional2] - Descripción de la dependencia.
-
 ## Cómo ejecutar el proyecto
 
-1.  Ejecuta el siguiente comando:
+1.  Asegúrate de que los archivos `index.html` y demas archivos, estén dentro de la misma carpeta.
+2.  Abre `index.html` en tu navegador web.  ejemplo: (Chrome, Firefox, Safari, etc.).
 
-    ```bash
-    npm start
-    ```
-2.  Abre tu navegador y visita `http://localhost:3000` (o el puerto que se indique en la consola).
+## Cómo usar
 
-## Uso
+1.  **Agregar participantes:** Ingresa los nombres de los participantes en el campo de texto y haz clic en "Añadir".
+2.  **Realizar el sorteo:** Una vez que hayas agregado todos los participantes, haz clic en el botón "Sortear amigo".
+3.  **Ver resultados:** Los resultados del sorteo del amigo secreto aleatorio se mostrarán en la pantalla.
 
-1.  **Agregar participantes:** Ingresa los nombres de los participantes en el campo de texto y haz clic en "Agregar".
-2.  **Realizar el sorteo:** Una vez que hayas agregado todos los participantes, haz clic en el botón "Sortear".
-3.  **Ver resultados:** Los resultados del sorteo se mostrarán en la pantalla.
+### Ejemplo visual
 
-## Posibles problemas y soluciones
+![Ejemplo de la interfaz de Amigo Secreto](./images/amigo_secreto_ejemplo.png)
+![Example Image](example.png)
 
-*   **Problema:** La aplicación no se ejecuta.
-
-    *   **Solución:** Asegúrate de tener Node.js y npm instalados correctamente. Verifica que todas las dependencias estén instaladas ejecutando `npm install`.
-*   **Problema:** Los nombres no se muestran correctamente.
-
-    *   **Solución:** Verifica que el archivo `data.json` (si lo usas) esté correctamente formateado y que la aplicación pueda leerlo sin errores.
-
-## Capturas de pantalla
-
-Aquí puedes incluir capturas de pantalla de tu aplicación para mostrar cómo se ve y cómo funciona.
+*Añade una captura de pantalla de tu proyecto en la carpeta `images` y actualiza la ruta en el `README.md`.*
 
 ## Video demostrativo
 
-[Enlace al video demostrativo](https://www.ejemplo.com/video)
+Si quieres mostrar cómo funciona la aplicación, puedes incluir un enlace a un video:
+
+[![Ver demostración](http://img.youtube.com/vi/\<ID_DEL_VIDEO>/0.jpg)](http://www.youtube.com/watch?v=\<ID_DEL_VIDEO>)
+
+*Reemplaza `\<ID_DEL_VIDEO>` con el ID de tu video de YouTube.*
+
+## Ayuda
+
+Para obtener ayuda o reportar errores, por favor contacta al autor.
 
 ## Autor
 
-[Tu Nombre](https://github.com/tuusuario)
+[Daniel William Benites Freyre](https://github.com/dafrey7)
 
 ## Licencia
 
