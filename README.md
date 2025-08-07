@@ -35,20 +35,11 @@ Este proyecto es una aplicación simple para organizar sorteos de "Amigo Secreto
 2.  **Realizar el sorteo:** Una vez que hayas agregado todos los participantes, haz clic en el botón "Sortear amigo".
 3.  **Ver resultados:** Los resultados del sorteo del amigo secreto aleatorio se mostrarán en la pantalla.
 
-### Ejemplo visual
-
-![Ejemplo de la interfaz de Amigo Secreto](./images/amigo_secreto_ejemplo.png)
-![Example Image](example.png)
-
-*Añade una captura de pantalla de tu proyecto en la carpeta `images` y actualiza la ruta en el `README.md`.*
-
 ## Video demostrativo
 
-Si quieres mostrar cómo funciona la aplicación, puedes incluir un enlace a un video:
-
-[![Ver demostración](http://img.youtube.com/vi/\<ID_DEL_VIDEO>/0.jpg)](http://www.youtube.com/watch?v=\<ID_DEL_VIDEO>)
-
-*Reemplaza `\<ID_DEL_VIDEO>` con el ID de tu video de YouTube.*
+[Si quieres mostrar cómo funciona la aplicación, puedes incluir un enlace a un video:
+](https://github.com/user-attachments/assets/ccbc1d14-f834-4f79-b886-2c818602d0c0
+)
 
 ## Ayuda
 
